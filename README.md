@@ -10,19 +10,37 @@
 <br />
 <br />
 
-### SW 개발 분야의 꿈을 갖고 열심히 준비하고 있습니다🙋‍♂️
 
 <br />
 
+
 <br />
 
-# Skill
+<a href="https://aksen123.github.io/M_W_blog/" target="_blank"><img src="https://img.shields.io/badge/blog-17692e?style=flat&logo=Blogger&logoColor=fc6b3f" height="50px"/>
+</a>
+
+<br />
+
+# 개인 프로젝트에 사용해 봤습니다👍
+
+<br />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,scss,styledcomponents)](https://github.com/aksen123)
 
 <br /><br />
 
+# 공부하는 중입니다✏️
+<br />
+
+[![My Skills](https://skillicons.dev/icons?i=next,tailwind)](https://github.com/aksen123)
+<br />
++Recoil
+
+<br /><br />
+
 # Tools
+
+<br />
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://github.com/aksen123)
 
@@ -30,24 +48,19 @@
 
 # Deployment
 
+<br />
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,netlify)](https://github.com/aksen123)
 
 <br /><br />
 
 
-# Learning..
-[![My Skills](https://skillicons.dev/icons?i=next,tailwind)](https://github.com/aksen123)
-<br />
-+Recoil
 
 
-<br /><br />
 
 
-# Contact
 
-<a href="https://aksen123.github.io/M_W_blog/" target="_blank"><img src="https://img.shields.io/badge/blog-17692e?style=flat&logo=Blogger&logoColor=fc6b3f" height="50px"/>
-</a>
+
 
 
 
