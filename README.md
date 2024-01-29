@@ -25,7 +25,7 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,scss,styledcomponents)](https://github.com/aksen123)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
 
 <br /><br />
 
