@@ -25,18 +25,11 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,styledcomponents)](https://github.com/aksen123)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,scss,styledcomponents)](https://github.com/aksen123)
 
 <br /><br />
 
-# 공부하는 중입니다✏️
-<br />
 
-[![My Skills](https://skillicons.dev/icons?i=next,tailwind)](https://github.com/aksen123)
-<br />
-+Recoil
-
-<br /><br />
 
 # Tools
 
