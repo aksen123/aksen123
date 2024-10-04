@@ -27,6 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux,scss,styledcomponents)](https://github.com/aksen123)
 
+<img src="https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
 <br /><br />
 
 
@@ -43,7 +44,7 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,netlify)](https://github.com/aksen123)
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://github.com/aksen123)
 
 <br /><br />
 
